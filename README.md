@@ -1,46 +1,53 @@
-# Getting Started with Create React App
+# Aero Performance Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Aero Performance Dashboard is a React application designed to visualize race car telemetry data and analyze performance metrics. This application allows users to upload telemetry data and view dashboards that display various conditions.
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Running the Application](#running-the-application)
+- [Accessing the Application](#accessing-the-application)
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Upload telemetry data for analysis.
+- Visualize performance metrics on a user-friendly dashboard.
+- Monitor specific conditions met during telemetry analysis.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Prerequisites
 
-### `npm test`
+Before you begin, ensure you have the following installed:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Node.js: [Download Node.js](https://nodejs.org/)
+- npm (Node Package Manager): This is included with Node.js
+- Git: [Download Git](https://git-scm.com/) (optional, for cloning the repository)
 
-### `npm run build`
+## Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the repository:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+   `git clone https://github.com/Arulanand-Dev/AeroPerformanceAnalyzerDashboard.git`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. Navigate to the project directory:
 
-### `npm run eject`
+   `cd AeroPerformanceAnalyzerDashboard`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+3. Install the project dependencies:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   `npm install`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Running the Application
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+1. To run the application in development mode, execute the following command:
 
-## Learn More
+   `npm start`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+2. Once the application is running, it will be accessible at `http://localhost:4000`.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Accessing the Application
+
+- The application can be accessed via the following URL:
+
+  [Aero Performance Dashboard](https://agreeable-island-0eb549e0f.5.azurestaticapps.net)
